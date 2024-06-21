@@ -223,7 +223,9 @@ class GenderWidget extends StatelessWidget {
       children: [
         CircleAvatar(
           radius: 40,
-          backgroundColor: isSelected ? Colors.blue : Colors.grey[300],
+          backgroundColor: isSelected
+              ? (gender == 'Masculino' ? Colors.blue : Colors.pink[200])
+              : Colors.grey[300],
           child: Icon(
             gender == 'Masculino' ? Icons.male : Icons.female,
             size: 40,
