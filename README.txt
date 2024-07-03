@@ -1,5 +1,4 @@
-Repositório criado a partir do 5º semestre de faculdade
-(não sei porque não criei antes..)
+Repository created for academic projects.
 
-Ciência da Computação
-ULBRA - Gravataí/RS
+Computer Science
+ULBRA - Universidade Luterana do Brasil
